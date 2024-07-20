@@ -1,19 +1,12 @@
 # TradeEz
 
-<img src="accenture-trade-ez\src\assets\TradeEz-logo-dark.png" alt="TradeEz-logo" width="150">
+<img src="frontend\src\assets\TradeEz-logo-dark.png" alt="TradeEz-logo" width="150">
 
 TradeEz is an online marketplace where the everyday person can hire a tradesperson for their everyday needs.
 
 At TradeEZ, we’re revolutionizing the tradespeople hiring process. Say goodbye to inconvenience and uncertainty. Our marketplace offers transparency and easy comparisons as we thoroughly vet our tradespeople, ensuring qualifications and licenses are up to date. Make informed decisions with comprehensive profiles and customer reviews. Trust, reliability, and convenience redefined.
 
-## Get Started
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### `npm start`
-
-Clone the app and run the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="frontend\src\assets\home-page.png" alt="TradeEz-home-page">
 
 ## The Product - Breaking it down
 
@@ -38,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Accenture NZ Technology Bootcamp 2023
 
-<img src="accenture-trade-ez\src\assets\Accenture-black-logo.png" alt="Accenture-logo" width="150"/>
+<img src="frontend\src\assets\Accenture-black-logo.png" alt="Accenture-logo" width="150"/>
 
 This app was created as a part of Accenture New Zealand's Technology Bootcamp 2023.
 
