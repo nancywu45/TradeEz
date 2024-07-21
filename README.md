@@ -6,6 +6,8 @@ TradeEz is an online marketplace where the everyday person can hire a tradespers
 
 At TradeEZ, we’re revolutionizing the tradespeople hiring process. Say goodbye to inconvenience and uncertainty. Our marketplace offers transparency and easy comparisons as we thoroughly vet our tradespeople, ensuring qualifications and licenses are up to date. Make informed decisions with comprehensive profiles and customer reviews. Trust, reliability, and convenience redefined.
 
+Check it out [here](https://nancywu45.github.io/TradeEz/)!
+
 <img src="frontend\src\assets\home-page.png" alt="TradeEz-home-page">
 
 ## The Product - Breaking it down
