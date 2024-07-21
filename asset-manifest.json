@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tradeez/static/css/main.849b58dd.css",
-    "main.js": "/tradeez/static/js/main.0f5a79cd.js",
-    "static/js/787.aed54b14.chunk.js": "/tradeez/static/js/787.aed54b14.chunk.js",
+    "main.js": "/tradeez/static/js/main.7a729734.js",
+    "static/js/787.cda612ba.chunk.js": "/tradeez/static/js/787.cda612ba.chunk.js",
     "static/media/fa-solid-900.ttf": "/tradeez/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/tradeez/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/tradeez/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/tradeez/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/tradeez/index.html",
     "main.849b58dd.css.map": "/tradeez/static/css/main.849b58dd.css.map",
-    "main.0f5a79cd.js.map": "/tradeez/static/js/main.0f5a79cd.js.map",
-    "787.aed54b14.chunk.js.map": "/tradeez/static/js/787.aed54b14.chunk.js.map"
+    "main.7a729734.js.map": "/tradeez/static/js/main.7a729734.js.map",
+    "787.cda612ba.chunk.js.map": "/tradeez/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.849b58dd.css",
-    "static/js/main.0f5a79cd.js"
+    "static/js/main.7a729734.js"
   ]
 }
